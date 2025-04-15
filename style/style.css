@@ -1,0 +1,26 @@
+h1{
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+h2{
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+nav{
+    display: flex;
+     justify-content: center;
+     align-items: center;
+}
+
+.content img {
+    border: 5px solid black;
+    width: 300px;
+}
+body {
+    background-image: url('/images/background-with-pattern-glass-texture.jpg');
+    background-size: cover;          
+    background-repeat: no-repeat;
+    background-position: center;
+}
