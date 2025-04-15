@@ -19,8 +19,16 @@ nav{
     width: 300px;
 }
 body {
-    background-image: url('/images/background-with-pattern-glass-texture.jpg');
+    background-image: url("../images/9.jpg");
     background-size: cover;          
     background-repeat: no-repeat;
     background-position: center;
+}
+
+.image-left img{
+    float: left;
+}
+
+.image-right img{
+    float: right;
 }
